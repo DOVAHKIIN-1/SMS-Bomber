@@ -1,5 +1,14 @@
-Please refer to our Telegram address to receive the file
+apt update
 
-https://t.me/Dovahkiin_hacker
+apt upgrade
 
-[ ! ] It only works with Iranian numbers (+98)
+apt install python -y
+
+apt install python2 -y
+
+apt install python3 -y
+
+apt install git -y
+
+termux-setup-storage
+
