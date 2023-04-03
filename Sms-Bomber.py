@@ -889,5 +889,4 @@ while True:
     except: print(f'{r}[-] Error TimeOut')
     
 # GitHub : https://github.com/DOVAHKIIN-1
-#Telegram : https://t.me/darkness_hackerpy
 # Coder : DOVAHKIIN
