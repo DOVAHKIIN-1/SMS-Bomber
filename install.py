@@ -21,5 +21,4 @@ os.system("clear")
 print(f'\n \t  {p}[+] {l}NOW TYPE {g}python Sms-Bomber.py{y} \n ')
 
 # GitHub : https://github.com/DOVAHKIIN-1
-#Telegram : https://t.me/darkness_hackerpy
 # Coder : DOVAHKIIN
