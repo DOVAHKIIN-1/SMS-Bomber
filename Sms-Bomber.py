@@ -833,7 +833,7 @@ import pyfiglet
 from termcolor import colored
 result = colored(pyfiglet.figlet_format('Sms Bomber', font = 'slant'), 'green')
 print(result)
-printLow(f'{c}  info: \n\n   \t{p}[+] {y}Creator: {b}DOVAHKIIN \n\n   \t{p}[+] {y}Github: {b}https://github.com/DOVAHKIIN-1\n\n {p}\t[+]{y}Telegram: {b}https://t.me/darkness_hackerpy \n\n   {c}system:\n\n    {p}[+] {l}Platform: {g}{System}\n    {p}[+] {l}Node: {w}{Node}\n    {p}[+] {l}Release: {r}{Release}\n\n')
+printLow(f'{c}  info: \n\n   \t{p}[+] {y}Creator: {b}DOVAHKIIN \n\n   \t{p}[+] {y}Github: {b}https://github.com/DOVAHKIIN-1\n\n {p}\t[+]{y}  {c}system:\n\n    {p}[+] {l}Platform: {g}{System}\n    {p}[+] {l}Node: {w}{Node}\n    {p}[+] {l}Release: {r}{Release}\n\n')
 def Vip(phone, Time):
     Thread(target=snap, args=[phone]).start(), sleep(Time)
     Thread(target=gap, args=[phone]).start(), sleep(Time)
